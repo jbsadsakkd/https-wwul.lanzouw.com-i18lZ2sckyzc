@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <title>河南省濮阳县第三中学简介</title>
+    <style>
+        body { font-family: "微软雅黑", Arial; line-height: 1.6; max-width: 800px; margin: 20px auto; padding: 0 20px; }
+        h1 { color: #2c3e50; border-bottom: 2px solid #3498db; }
+        h2 { color: #34495e; margin-top: 25px; }
+        .highlight { color: #e74c3c; font-weight: bold; }
+        ul { padding-left: 20px; }
+        .section { background-color: #f9f9f9; padding: 15px; border-radius: 5px; margin: 15px 0; }
+    </style>
+</head>
+<body>
+    <h1>河南省濮阳县第三中学</h1>
+    
+    <div class="section">
+        <h2>🏫 学校概况</h2>
+        <p>创建于1922年，前身为华美中学，历经多次更名，1958年定现名。现为濮阳市重点中学，实行<span class="highlight">"一校两区"</span>办学模式：</p>
+        <ul>
+            <li>老校区：占地90余亩，文化底蕴深厚[6,4](@ref)</li>
+            <li>新校区（2022年启用）：占地284亩，120个教学班，配备现代化教学设施[4](@ref)</li>
+        </ul>
+    </div>
+
+    <div class="section">
+        <h2>🎯 办学特色</h2>
+        <ul>
+            <li>小语种教学：开设俄语班，2022年三分之二学生高考俄语超100分[4](@ref)</li>
+            <li>创新培养：机器人社团获世界机器人大赛二等奖，开设飞行员/艺术特训班[4](@ref)</li>
+            <li>师资力量：400余名教师中含特级教师2人、省市级名师/骨干教师178人[4,6](@ref)</li>
+        </ul>
+    </div>
+
+    <div class="section">
+        <h2>🏆 教学成果</h2>
+        <p>2022年高考：本科上线率79.7%（1195人），一本上线368人，70人考入985高校，彭程同学录入北京大学[4](@ref)。近十年培养清华北大学子十余人[5,6](@ref)。</p>
+    </div>
+
+    <div class="section">
+        <h2>🌟 校园文化</h2>
+        <ul>
+            <li>品牌活动：励志报告会（如梁君林双语演讲）、校友讲坛（如清华教授王东杰）[1,2](@ref)</li>
+            <li>德育建设："四三三三三"教育体系，开设文学社、心理社团等20+社团[4,6](@ref)</li>
+            <li>校训精神：<span class="highlight">"厚德正行，学贵心悟"</span>[6](@ref)</li>
+        </ul>
+    </div>
+
+    <div class="section">
+        <h2>🏅 荣誉奖项</h2>
+        <ul>
+            <li>国家级：全国文明校园、空军飞行学员优秀生源学校[4,5](@ref)</li>
+            <li>省级：河南省示范性高中、十佳办学单位[3,6](@ref)</li>
+        </ul>
+    </div>
+
+    <div class="section">
+        <h2>👥 组织结构</h2>
+        <p>现任领导：校长胡长兴、党总支书记魏国胜，实施"党建+"管理模式，推行教师"六个一"成长工程[4,1](@ref)。</p>
+    </div>
+</body>
+</html>
